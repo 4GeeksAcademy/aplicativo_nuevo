@@ -1,0 +1,8 @@
+[2024-05-19 18:42:56 +0000] [9863] [INFO] Starting gunicorn 22.0.0
+[2024-05-19 18:42:56 +0000] [9863] [INFO] Listening at: http://127.0.0.1:8000 (9863)
+[2024-05-19 18:42:56 +0000] [9863] [INFO] Using worker: sync
+[2024-05-19 18:42:56 +0000] [9864] [INFO] Booting worker with pid: 9864
+[2024-05-19 18:45:19 +0000] [9864] [INFO] Worker exiting (pid: 9864)
+[2024-05-19 18:45:19 +0000] [9863] [INFO] Handling signal: term
+[2024-05-19 18:45:19 +0000] [9863] [ERROR] Worker (pid:9864) was sent SIGTERM!
+[2024-05-19 18:45:19 +0000] [9863] [INFO] Shutting down: Master
